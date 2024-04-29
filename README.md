@@ -6,5 +6,5 @@
 - GT size: 128px
 - Batch size: 5
 - Epochs: 11
-- Iteration: 160000
+- Iterations: 160000
 
