@@ -14,4 +14,7 @@
 ## **ChaiNNer Templates**
 
 Drive: https://drive.google.com/drive/folders/13CUiMxvbFJCd4zXUZh5UoVzaqXhupHZ
-Warning: be aware of noisy effect can cause to screentone while using refilling model which is still in experimental training
+
+> [!WARNING]  
+> Refilling model can cause noisy effect to screentone since it is still in experimental training.
+
