@@ -13,7 +13,7 @@
 
 ## **ChaiNNer Templates**
 
-Drive: https://drive.google.com/drive/u/1/folders/13CUiMxvbFJCd4zXUZh5UoVzaqXhupHZ_
+[Google Drive](https://drive.google.com/drive/u/1/folders/13CUiMxvbFJCd4zXUZh5UoVzaqXhupHZ_)
 
 > [!WARNING]  
 > Refilling model can cause noisy effect to screentone since it is still in experimental training.
