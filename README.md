@@ -1,5 +1,7 @@
 # Upscaling models for Japanese grayscale manga
-![Example](https://i.imgur.com/yVQviwF.jpeg)
+![Upscale Example](https://i.imgur.com/fGCiBfq.jpeg)
+![Refill Example](https://i.imgur.com/vOfnipp.png)
+
 ## **Training info**
 | Model |  Architecture  | Type | Scale | HR Size | GT Size | Batch Size | Epoch(s) | Iterations | Pretrained Model |
 |:-------|:----------:|----:|------:|------:|------:|------:|-------:|----:|-----:|
